@@ -1,0 +1,75 @@
+.navbar-brand,
+.nav-link {
+    color: white;
+}
+
+.container {
+    background-color: #ffffff;
+    margin-top: 100px;
+    padding: 30px 25px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+.btn-primary {
+    width: 100%;
+    padding: 12px;
+    background-color: blue;
+    color: #fff;
+    font-size: 16px;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    
+}
+
+
+th {
+
+    background-color: rgb(81, 118, 240);
+    color: black;
+    padding: 10px;
+    text-align: center;
+
+}
+
+
+td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid rgb(225, 233, 228);
+
+}
+
+
+tr:nth-child(odd) {
+    background-color: rgb(140, 189, 245);
+
+}
+
+tr:nth-child(even) {
+    background-color: rgb(255, 255, 255);
+
+
+}
+
+
+tr:hover {
+    background-color: add;
+
+
+}
+
+.btn-warning,
+.btn-danger {
+    margin-right: 5px;
+ 
+}

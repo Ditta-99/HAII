@@ -1,0 +1,23 @@
+[
+    {
+        "kode": "002",
+        "nama": "Laptop",
+        "jumlah": "200",
+        "tanggal": "2002-01-02",
+        "kategori": "Elektronik"
+    },
+    {
+        "kode": "003",
+        "nama": "Kabel",
+        "jumlah": "200",
+        "tanggal": "2003-02-03",
+        "kategori": "Elektronik"
+    },
+    {
+        "kode": "004",
+        "nama": "Baterai",
+        "jumlah": "233",
+        "tanggal": "2009-01-02",
+        "kategori": "Elektronik"
+    }
+]
